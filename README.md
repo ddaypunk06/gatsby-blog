@@ -1,4 +1,6 @@
- # Hello Friend
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/adaac83d-6453-4f73-b6c4-ac67fa93ba56/deploy-status)](https://app.netlify.com/sites/xenodochial-joliot-514ed5/deploys)
+ 
+ # Hello Friend - Under construction using this starter template!
 
 ![Hello Friend](https://github.com/panr/hugo-theme-hello-friend/blob/master/images/screenshot.png?raw=true)
 
