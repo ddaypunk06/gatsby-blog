@@ -15,7 +15,7 @@ module.exports = {
       src: '',
       alt: '',
     },
-    logoText: 'hello friend',
+    logoText: 'andy delso',
     defaultTheme: 'dark',
     postsPerPage: 5,
     showMenuItems: 2,
@@ -26,13 +26,13 @@ module.exports = {
         path: '/about',
       },
       {
-        title: 'Showcase',
-        path: '/showcase',
+        title: 'Projects',
+        path: '/projects',
       },
-      {
-        title: 'Example',
-        path: '/example',
-      },
+      // {
+      //   title: 'Example',
+      //   path: '/example',
+      // },
     ],
   },
   plugins: [
