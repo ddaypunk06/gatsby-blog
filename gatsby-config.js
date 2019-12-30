@@ -7,10 +7,10 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Hello Friend`,
-    description: `A simple starter for Gatsby. That's it.`,
+    title: `Andy Delso: Automated Testing Professional`,
+    description: `Musings about software development, quality, and test automation. My thoughts are my own.`,
     copyrights: '',
-    author: `@panr`,
+    author: `@thedelso`,
     logo: {
       src: '',
       alt: '',
@@ -26,13 +26,13 @@ module.exports = {
         path: '/about',
       },
       {
+        title: 'Blog',
+        path: '/blog',
+      },
+      {
         title: 'Projects',
         path: '/projects',
       },
-      // {
-      //   title: 'Example',
-      //   path: '/example',
-      // },
     ],
   },
   plugins: [

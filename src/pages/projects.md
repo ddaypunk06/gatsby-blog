@@ -1,7 +1,7 @@
 ---
 title: "Projects"
-date: "2018-07-17"
-author: "Hello Robot"
+date: "2019-12-29"
+author: "Andy Delso"
 path: "/projects"
 ---
 
