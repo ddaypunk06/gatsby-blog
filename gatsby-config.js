@@ -7,7 +7,7 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Andy Delso: Automated Testing Professional`,
+    title: `Andy Delso: Curious Tinkerer`,
     description: `Musings about software development, quality, and test automation. My thoughts are my own.`,
     copyrights: '',
     author: `@thedelso`,
@@ -18,8 +18,8 @@ module.exports = {
     logoText: 'andy delso',
     defaultTheme: 'dark',
     postsPerPage: 5,
-    showMenuItems: 2,
-    menuMoreText: 'Show more',
+    showMenuItems: 3,
+    menuMoreText: 'More...',
     mainMenu: [
       {
         title: 'About',
