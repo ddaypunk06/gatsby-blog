@@ -18,17 +18,17 @@ module.exports = {
     logoText: 'andy delso',
     defaultTheme: 'dark',
     postsPerPage: 5,
-    showMenuItems: 3,
+    showMenuItems: 2,
     menuMoreText: 'More...',
     mainMenu: [
       {
         title: 'About',
         path: '/about',
       },
-      {
-        title: 'Blog',
-        path: '/blog',
-      },
+      // {
+      //   title: 'Blog',
+      //   path: '/blog',
+      // },
       {
         title: 'Projects',
         path: '/projects',
