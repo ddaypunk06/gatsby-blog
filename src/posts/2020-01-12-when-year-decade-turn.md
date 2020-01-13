@@ -7,9 +7,9 @@ excerpt: 'I''ve been seeing a lot of "last of 2019" posts and "things that happe
 tags: ["reflections", "decade", "yearly"]
 ---
 
-Many "last of 2019" posts have caught my eye, as have posts recapping the past decade via social media. The interesting part in all of this is that all of life is basically a series of beginnings and endings. Openings and closings. Starts and stops. Yet, we focus on this "new year" or "new decade" with such fervor. Maybe we should. Maybe we need these stops and starts to understand who we are and where we came from and how we can be better versions of ourselves. 
+Many "last of 2019" posts have caught my eye, as have posts recapping the past decade via social media. The interesting part in all of this is that all of life is basically a series of beginnings and endings. Openings and closings. Starts and stops. Yet, we focus on this "new year" or "new decade" with such fervor. Maybe we should. Maybe we need these stops and starts to understand who we are, where we came from, and how we can be better versions of ourselves going forward. 
 
-In retrospect, so much as happened in my own life in the past 5 years alone that it really it really astounds me how many changes we go through in our lives from year to year, decade to decade. It sometimes feels as though I am 50 instead of 35 when I focus on just these past 10 short years.
+In retrospect, so much as happened in my own life in the past 5 years alone that it really astounds me how many changes we go through in our lives from year to year, decade to decade. It sometimes feels as though I am 50 instead of 35 when I focus on just these past 10 short years.
 
 So, here are my highlights of the decade as we hurtle headlong into 2020:
 * been married and divorced
