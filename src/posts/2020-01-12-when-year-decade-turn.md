@@ -11,7 +11,7 @@ Many "last of 2019" posts have caught my eye, as have posts recapping the past d
 
 In retrospect, so much as happened in my own life in the past 5 years alone that it really astounds me how many changes we go through in our lives from year to year, decade to decade. It sometimes feels as though I am 50 instead of 35 when I focus on just these past 10 short years.
 
-So, here are my highlights of the decade as we hurtle headlong into 2020:
+So, here are my highlights of the decade as we hurdle headlong into 2020:
 * been married and divorced
 * been parent to two wonderful little humans
 * worked at 3 different companies (Trustwave, Sprout Social, Hyatt)
@@ -96,36 +96,62 @@ I hope that everyone, across the world, has learned something from 2019, and eve
 `youtube: uPqho1yuos0`
 
 > The patience I once had is running away with my youth
+> 
 > Away in its hands
+> 
 > I've been neglecting who I am
+> 
 > That's just who I was back then
+> 
 > Don't need to be perfect, just happy
 > 
+> 
 > I'm still a lost boy
+> 
 > I'm still a lost boy
 >
+> 
 > Last year I was a trainwreck, now I'm just a mess
+> 
 > I'm letting go so I don't lose myself
+> 
 >
 > Every once in a while I listen to Death Cab and think about how it used to be
+> 
 > We thought that we knew the answers
+> 
 > When no one was asking
+> 
 > Asking the questions
+> 
 >
 > I'm still a lost boy
+> 
 > I'm still a lost boy
 >
+> 
 > Last year I was a trainwreck, now I'm just a mess
+> 
 > I'm letting go so I don't lose myself
+> 
 > I'm starting to be where I need to be
+> 
 > I'm starting to be where I need to be
+> 
 >
 > It feels like I've been taking the long way for a while now
+> 
 > Haven't been at home in more years than I care to say
+> 
 > I keep letting my past cover what the present shouldn't be
+> 
 > What I shouldn't be
+> 
 >
 > Last year I was a trainwreck, now I'm just a mess
+> 
 > I'm letting go so I don't lose myself
+> 
 > I'm starting to be where I need to be
+> 
 > I'm starting to be where I need to be
