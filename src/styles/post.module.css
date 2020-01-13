@@ -52,7 +52,9 @@
 }
 
 .tags a {
-  color: var(--dday-orange);
+  :global .dark-theme :local & {
+    color: var(--dday-orange);
+  }
 }
 
 .tag {
@@ -73,9 +75,13 @@
 }
 
 .postContent a {
-  color: var(--dday-orange);
+  :global .dark-theme :local & {
+    color: var(--dday-orange);
+  }
 }
 
 .postContent a:hover {
-  color: whitesmoke
+  :global .dark-theme :local & {
+    color: whitesmoke
+  }
 }

@@ -55,7 +55,9 @@
   }
 
   a:hover {
-    color: whitesmoke;
+    :global .dark-theme :local & {
+      color: whitesmoke;
+    }
   }
 }
 

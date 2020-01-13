@@ -333,9 +333,13 @@ footer {
 }
 
 footer a {
-  color: var(--dday-orange);
+  :global .dark-theme :local & {
+    color: var(--dday-orange);
+  }
 }
 
 footer a:hover {
-  color: whitesmoke
+  :global .dark-theme :local & {
+    color: whitesmoke
+  }
 }
