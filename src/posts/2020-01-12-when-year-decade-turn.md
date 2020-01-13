@@ -91,7 +91,9 @@ When taking the last decade into account, I am not sure that 2020 me would recog
 
 Growing up, can be quite painful at times, but pain induces learning. Much like that time I touched a stove top when I was very young. You can be sure I didn't do that willingly again. I plan on doing many things differently the second time around. With respect to marriage, I feel much more like it is MY decision this time around. I also see a great future in my choice of a partner this time. We bring out the best in one another, and in my kids. With respect to family, I know I need to remain in better contact with them.
 
-I hope that everyone, across the world, has learned something from 2019, and even more from the past decade. I know I have, and thank you [Real Friends](https://www.youtube.com/watch?v=uPqho1yuos0) for this song that I absolutely overplayed since I first heard it:
+I hope that everyone, across the world, has learned something from 2019, and even more from the past decade. I know I have, and thank you [Real Friends](http://realfriendsband.com/) for this song that I absolutely overplayed since I first heard it:
+
+`youtube: uPqho1yuos0`
 
 > The patience I once had is running away with my youth
 > Away in its hands
