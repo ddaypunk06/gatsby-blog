@@ -11,7 +11,7 @@ As I was thinking about this today, it is really odd to me, to say "deathday". R
 
 ![My favorite picture of my mom][photo]
 
-[photo]: https://github.com/ddaypunk06/gatsby-blog/blob/master/src/images/happy_mom.jpeg "A young and happy mom"
+[photo]: https://github.com/ddaypunk06/gatsby-blog/blob/master/src/images/happy_mom.jpeg "A young and happy mom" =250x
 
 ## Today, today
 It has been a really weird day today. I have not quite decided how I want to, or should, feel about things. I think my kids picked up on this as my daughter and I really had a hard time at one point tonight. We were having a parental discussion, and she stated that I was yelling at her. Truth be told, I wasn't as that is something that I have been working very hard on the past few years. If anything I was being very stern about it. I am aspiring to live better than my step-father treated/fathered me (abusively, but that’s another story).
