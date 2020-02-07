@@ -9,7 +9,7 @@ tags: ["memories", “mom”, "yearly"]
 
 As I was thinking about this today, it is really odd to me, to say "deathday". Regardless, that does not make this any easier to write. It has been 5 years, to the day, since my mom passed away. I've decided this year to really dive deep into my thoughts about her.
 
-![My favorite picture of my mom][photo =250x]
+![My favorite picture of my mom](photo =250x)
 
 [photo]: https://github.com/ddaypunk06/gatsby-blog/blob/master/src/images/happy_mom.jpeg "A young and happy mom"
 
