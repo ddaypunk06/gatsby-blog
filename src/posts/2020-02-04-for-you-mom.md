@@ -9,6 +9,10 @@ tags: ["memories", “mom”, "yearly"]
 
 As I was thinking about this today, it is really odd to me, to say "deathday". Regardless, that does not make this any easier to write. It has been 5 years, to the day, since my mom passed away. I've decided this year to really dive deep into my thoughts about her.
 
+![My favorite picture of my mom][photo]
+
+[photo]: https://github.com/ddaypunk06/gatsby-blog/blob/master/src/images/happy_mom.jpeg "A young and happy mom"
+
 ## Today, today
 It has been a really weird day today. I have not quite decided how I want to, or should, feel about things. I think my kids picked up on this as my daughter and I really had a hard time at one point tonight. We were having a parental discussion, and she stated that I was yelling at her. Truth be told, I wasn't as that is something that I have been working very hard on the past few years. If anything I was being very stern about it. I am aspiring to live better than my step-father treated/fathered me (abusively, but that’s another story).
 
@@ -66,12 +70,22 @@ Reason: We spoke this one at my mother’s memorial service, and I still think i
 
 `youtube: VXJoexZBMcA`
 
-> Not everyone grows up to be an astronaut,
-> Not everyone was born to be a king,
-> Not everyone can be Freddie Mercury,
-> But everyone can raise their glass and sing.
-> Well I haven't always been a perfect person,
-> Well I haven't done what mum and dad had dreamed,
-> But on the day I die, I'll say at least I fucking tried.
-> That's the only eulogy I need,
+> Not everyone grows up to be an astronaut
+> 
+> Not everyone was born to be a king
+> 
+> Not everyone can be Freddie Mercury
+> 
+> But everyone can raise their glass and sing
+> 
+> 
+> Well I haven't always been a perfect person
+> 
+> Well I haven't done what mum and dad had dreamed
+> 
+> But on the day I die, I'll say at least I fucking tried
+> 
+> 
+> That's the only eulogy I need
+> 
 > That's the only eulogy I need.
