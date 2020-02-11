@@ -8,7 +8,8 @@ const postCSSMixins = require('postcss-mixins')
 module.exports = {
   siteMetadata: {
     title: `Andy Delso: Curious Tinkerer`,
-    description: `Musings about software development, quality, and test automation. My thoughts are my own.`,
+    description: `Musings about software development, quality, and test automation. \
+    My thoughts are my own.`,
     copyrights: '© Andy Delso 2020',
     author: `@thedelso`,
     logo: {
