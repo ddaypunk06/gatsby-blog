@@ -15,7 +15,7 @@ Outside professional and streaming, I also enjoy: playing guitar (alt. rock, pop
 
 Skills:
 * Languages: Java, JavaScript, Kotlin, Groovy, Python
-* Automation: Selenium, Appium, JUnit, RestAssured, Geb, Spock
+* Automation: Selenium, Appium, JUnit, RestAssured, Wiremock, Geb, Spock
 * Technologies: Docker, React.js, Node.js, libgdx
 * Tools: IntelliJ, VSCode, Insomnia, Git
 * Operating Systems: Windows, Mac, iPhone, Android, Linux
