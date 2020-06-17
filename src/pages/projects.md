@@ -1,89 +1,34 @@
 ---
 title: "Projects"
-date: "2019-12-29"
+date: "2020-06-16"
 author: "Andy Delso"
 path: "/projects"
 ---
 
-## Header 2
+## Professional Projects - Hyatt Hotels Corporation
 
-Backup two-step verification breach, anonymous terminal traffic worm virus reboot fsociety dat file. Traffic fsociety malware 100 terabytes system hack, delete brute-force cyber security fiber connection connect code worm wipe. Cyber security off the grid delete IP decrypt, **nodes connect password 100 terabytes RUDY attack malicious code** rootkit gigabit speed. Tor connect network, intercepting traffic off the grid IP protocol password.
+### Data Mocking
 
-> Backup DDoS attack rootkit nodes disconnect website. Two-step verification Tor anonymous nodes, 100 terabytes fiber connection wipe cyber security IRC code wipe all the data fsociety virus compromised DDoS attack. Sys admin data center gigabit speed breach, worm DDoS attack AFK nodes.
+Uses Kotlin and Wiremocks to provide mocked responses to our mobile app. Allows for easier testing of error states and such.
 
-### Header 3
+### Mobile automation
 
-Brute-force intercepting traffic fiber connection system boot up fsociety reboot AFK sys admin. Reboot website Tor, intercepting traffic `100 terabytes gigabit speed breach connect IRC nodes` system operating system dat file compromised boot up. Data center decrypt password network disconnect. Anonymous emails cyber security Wi-Fi IRC protocol DDoS attack rootkit system files, data dump website operating system wipe connect.
+Contributions to our automation framework that uses Geb, Spock, Appium and SpringBoot. All tests are written using Groovy and run using SauceLabs. All tests are setup in Jenkins using job dsl style.
 
-```css
-/* PostCSS code by PrismJS */
+## Personal Projects
 
-pre {
-  background: #1a1a1d;
-  padding: 20px;
-  border-radius: 8px;
-  font-size: 1rem;
-  overflow: auto;
+### [Selenium Framework](https://github.com/ddaypunk06/dupage)
 
-  @media (--phone) {
-    white-space: pre-wrap;
-    word-wrap: break-word;
-  }
+A reusable Selenium framework built using newest version of Selenium at the time, SpringBoot, and JUnit5 amongst other things. Uses component based page object model as described and improved upon in my [blog article](/selenium-component-model).
 
-  code {
-    background: none !important;
-    color: #ccc;
-    padding: 0;
-    font-size: inherit;
+### [React Playground](https://github.com/ddaypunk06/playground)
 
-    .dark-theme & {
-      color: inherit;
-    }
-  }
-}
-```
+A very simple React based website with an Express server backend. Intended to be used in testing above selenium project over using solutions in order to have better control over the selectors available in the front end implementation.
 
-```js
-// JS code by PrismJS
+### [Card Shuffle](https://github.com/ddaypunk06/card-shuffle)
 
-const menuTrigger = document.querySelector('.menu-trigger')
-const menu = document.querySelector('.menu')
-const mobileQuery = getComputedStyle(document.body).getPropertyValue('--phoneWidth')
-const isMobile = () => window.matchMedia(mobileQuery).matches
-const isMobileMenu = () => {
-  menuTrigger.classList.toggle('hidden', !isMobile())
-  menu.classList.toggle('hidden', isMobile())
-}
+Simple object oriented programming exercise using Java for an interview I did a while ago that shuffles a common deck of playing cards.
 
-isMobileMenu()
+### [Fragments of Palladium](https://github.com/BedfordWest/fragmentology)
 
-menuTrigger.addEventListener('click', () => menu.classList.toggle('hidden'))
-
-window.addEventListener('resize', isMobileMenu)
-```
-
-```html
-<section id="main">
-  <div>
-   <h1 id="title">{{ .Title }}</h1>
-    {{ range .Pages }}
-        {{ .Render "summary"}}
-    {{ end }}
-  </div>
-</section>
-```
-
-#### Header 4
-
-Traffic RUDY attack nodes anonymous IP network code two-step verification system files data center bonsoir terminal. Exit nodes website code, RUDY attack password off the grid offline malware delete. Cyber security network exit nodes backup two-step verification gigabit speed DDoS attack.
-
-- Fsociety delete malicious code nodes.
-- IP cyber security wipe all the data sys admin virus compromised dat file malicious code computer.
-- Decrypt two-step verification Tor wipe, password cyber security data dump malicious code dat file routing protocol operating system.
-- Anonymous boot up website AFK.
-  - Timing out IP DNS, log file offline terminal brute-force system files connect server farm.
-  - Reboot sys admin worm log file wipe.
-
-`youtube: xIBiJ_SzJTA`
-
-Tor boot up backup anonymous bonsoir IRC website. Password nodes two-step verification, connect data center system files bonsoir data dump terminal AFK 100 terabytes sys admin breach dat file. Protocol backup exit nodes fiber connection, operating system log file virus Tor offline. Password data center two-step verification disconnect IRC terminal. Tor IRC cyber security AFK protocol traffic disconnect. Code exit nodes IRC cyber security nodes worm.
+A game developed by a team of folks from work using Java and the LibGDX library. Project lead was (Bedford West)[https://github.com/BedfordWest]. I personally worked on some of the pixel art and the programming for the controls. This was never completed.
