@@ -87,7 +87,18 @@ In February, I was fortunate to be able to travel to India, which was amazing! W
 
 We knew about COVID while we were there, and boy, we had no idea what we were in for in the weeks following our return. I really need to write about my experience though. Maybe part of 2021 goal for this blog?
 
+### The Semi-Postponed Marriage
+
+The original plan was to have an Indian wedding in October. We spent multiple months dreading the decision to postpone it as COVID looked like it wasn't going away. Finally in the summer, we decided we had to push it back for the safety of our friends and family.
+
+Instead, we decided to do a very small, intimate gathering in our parent's backyard and push the big celebration to the following year. It was a hard decision, but I personally think it worked out great. The weather was amazing in early October and only a few folks, namely grandparents, were unable to attend.
+
+Only our very immediate family and wedding party were asked to attend. One of our closest friends took the time to get ordained, and did us the honor of officiating the event. It was odd at first that everyone wore masks, but it was the right thing to do. Besides my beautiful bride, I think the cake was my favorite thing.
+
+Almost three months in, and its going pretty well, albeit not much has changed. She is still my best friend, and we are working hard to make it through this pandemic, amongst other things. 
+
 ### At the Old Manor
+
 The pandemic has definitely changed our dynamic as a family this year. We have started to see family less often in person as the year has dragged on. My wife and I have been working from home for almost a year now. It is really funny to think back about how I considered a position with Mozilla (makers of Firefox) which would have been 100% remote, and now we both get a year long taste of it. It has been interesting, but I do believe I have been more productive (at the expense of physical activity mentioned previously)
 
 The kids are also going on a year of remote learning this upcoming March. It is different, but there are still plenty of good things that have come of it. More on that later...
@@ -109,18 +120,6 @@ March was pretty rough for us when school went remote after the initial onset of
 We made the decision to keep them home full time even when given a choice for hybrid learning. It wasn't an easy one, but it was the best decision we could have made. We just have to keep telling ourselves that we are all doing the best we can with what we have.
 
 I think it is hardest on my new wife than it has been on me. She has been super amazing taking on most of the learning herself even while working. I believe she is also a bit more social than I am, so it has been hard not seeing her friends. Though we have had a few fun group video calls involving trivia and adult drinks, it is just not the same. While it is hard, it is essential to make sure we are here for our families instead of sick and unable to work/provide for our kids.
-
----
-
-## The Semi-Postponed Marriage
-
-The original plan was to have an Indian wedding in October. We spent multiple months dreading the decision to postpone it as COVID looked like it wasn't going away. Finally in the summer, we decided we had to push it back for the safety of our friends and family.
-
-Instead, we decided to do a very small, intimate gathering in our parent's backyard and push the big celebration to the following year. It was a hard decision, but I personally think it worked out great. The weather was amazing in early October and only a few folks, namely grandparents, were unable to attend.
-
-Only our very immediate family and wedding party were asked to attend. One of our closest friends took the time to get ordained, and did us the honor of officiating the event. It was odd at first that everyone wore masks, but it was the right thing to do. Besides my beautiful bride, I think the cake was my favorite thing.
-
-Almost three months in, and its going pretty well, albeit not much has changed. She is still my best friend, and we are working hard to make it through this pandemic, amongst other things. 
 
 ---
 
