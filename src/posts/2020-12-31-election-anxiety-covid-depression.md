@@ -39,22 +39,32 @@ As a result, I have been assigned small items for product development to work on
 
 As the title of this post indicates, it was not the best for me personally. I think the COVID year is starting to take a toll on my being, and as a result, I don't feel like the person I should be at times.
 
-Those who know me very well, know that I suffer from Anxiety and Depression. I take medication for it. Sadly, I think we will all need meds and therapy after the year we have had.
+Those who know me very well, know that I suffer from Anxiety and Depression. I take medication for it. Sadly, I think we will all need meds and therapy after the year we have had. More recently, I have been noticing things in me that could be triggered by anxiety. It probably does not help that I do not exercise much because I no longer have to walk to an office downtown for work. The combination of the two are taking a toll on my body. Things including but not limited to: chest pressure/pain, digestive issues, and headaches. Some of these symptoms are the same I had 4 years ago.
 
-More recently, I have been noticing things in me that could be triggered by anxiety. It also does not help that I don't exercise much because I no longer have to walk to an office downtown for work. The combination of the two are taking a toll on my body.
+### Election 2020
+What happened 4 years ago you might say? I think it was a pile of things building up since 2015 (possibly before) that began with the death of my mother, which I have written about previously. Other things happened between then and what ended up being the icing on the cake... Election 2016. In all honesty, I think that pushed me over the edge and ended up being a cause for the meds I take and the therapy/meditation I did at the time.
+
+Here we are again with the 2020 election. Somewhat similar pairing of candidates. We won't get into the politics of it all, but I think listening to the news all the time about it and covid took a physical and mental toll on me. 
+
+The victor was not my first choice, but he has experience from working with the President I did vote and highly respect previous to our current head of state. I have faith that his administration will do its best.
+### Don't Forget the Positives
 
 Keeping in mind the positives and the negatives for this post, I have definitely been a better person at times this year: I have tried to be a better family man than I have in the past. There are the occasional outbursts of anger that parents can experience, but that is to be understood in 2020. I have been better at keeping in contact with family and friends this year (more often via phone than through social media). 
 
 Surprisingly, the game Dungeons and Dragons has somewhat saved my social life this year. I was lucky to be part of 3 different campaigns but unlucky to experience what amounts to split personalities (haha). It is seriously hard, to keep track of who three separate people are especially when two are similar classes. I am happy that my wife decided to try it out (after many nudges by friends in the groups)!
 
+I have tried to learn to not let things outside of my control get to me. It is hard, but I know I must keep working at it.
+
 ## Pandemic Life
 
 The year had started off just like any other, and I made a post much like this then as well. We were planning a wedding, and going on with our daily routines of work/school, home, sleep...
 
+### A Land With a Rich History
 In February, I was fortunate to be able to travel to India, which was amazing! While we shopped most of the time, for wedding decor and clothing, just being there was an experience. Meeting many of my wife's extended family members and seeing some of the sights was an experience I will soon not forget. One of these days I will post more of the things I was able to take photos of.
 
 We knew about COVID while we were there, and boy, we had no idea what we were in for in the weeks following our return.
 
+### At the Old Manor
 The pandemic has definitely changed our dynamic as a family this year. We have started to see family less and less in person as the year has gone on. My wife and I have been working from home for almost a year now. The kids are also going on a year of remote learning this upcoming March. It is different, but there are still plenty of good things that have come of it.
 
 Ask my wife, I always say I don't get enough time with my kids. I am a divorced parent with 50/50 custody with my ex-wife. The pandemic has allowed me more time with my children and my new wife. It is amazing how much time is saved not having to drive to and take the train downtown.
@@ -65,7 +75,7 @@ We were also lucky enough to have my brother stay with us for about a month. It 
 
 Other than our wedding (more on that later) months seem to run together much like this sad but true [website](https://whatdayinmarchisit.com/) illustrates. We all watch shows and movies together, or play video and board games to keep life interesting.
 
-## A Year of Video Calls
+### A Year of Video Calls
 
 COVID as stated, has unfortunately derailed our year. As a result, we have all had to somewhat forcibly get used to getting our social interaction via apps like Zoom or HouseParty. Our children have had to get used to using Seesaw and Google Classroom to get the learning they need.
 
