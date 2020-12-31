@@ -29,7 +29,7 @@ Some would say there are too many here, and I agree wholeheartedly. I  started r
 
 ### Positive with a Side of Negative
 
-Taking the successes along with the failures into account (as we all should), I was able to complete parts of all of the above goals. I **read more** than one book a month even though my [goal was 20 for the year](https://www.goodreads.com/user_challenges/20138910). I definitely didn't **play my guitar** as much as I wanted to. Though I did play it more because I put one next to my desk and picked up my kid's guitar at random times. I did some **painting of minis, sketching, and coloring** throughout the year, but I didn't stick to my plan to do it every Tuesday night. As a result, I have a growing backlog of miniatures to work on this upcoming year. I took, but did not edit a **TON of pictures** this year with my Sony DSLR and a few new lenses. I was also unable to do as much **pixel art** as I wanted to this year; however, I did start working on **rebuilding a game** with my good friend in Godot Engine. As such, I ended up redesigning the player character a bit. Due to **starting a new career** with Hyatt as software developer (in test) I was able to code a ton this year. As a side effect of COVID, I was able to **spend a ton of time with my kids** due to remote learning. Although, it never feels like I spend enough time with them still. As far as streaming goes, I was able to get my **first payout from Twitch** after being an affiliate for over a year.
+Taking the successes along with the failures into account (as we all should), I was able to complete parts of all of the above goals. I read more than one book a month even though my [goal was 20 for the year](https://www.goodreads.com/user_challenges/20138910). I definitely didn't play my guitar as much as I wanted to. Though I did play it more because I put one next to my desk and picked up my kid's guitar at random times. I did some painting of minis, sketching, and coloring throughout the year, but I didn't stick to my plan to do it every Tuesday night. As a result, I have a growing backlog of miniatures to work on this upcoming year. I took, but did not edit a TON of pictures this year with my Sony DSLR and a few new lenses. I was also unable to do as much pixel art as I wanted to this year; however, I did start working on*rebuilding a game with my good friend in Godot Engine. As such, I ended up redesigning the player character a bit. Due to starting a new career with Hyatt as software developer (in test) I was able to code a ton this year. As a side effect of COVID, I was able to spend a ton of time with my kids due to remote learning. Although, it never feels like I spend enough time with them still. As far as streaming goes, I was able to get my first payout from Twitch after being an affiliate for over a year.
 
 Even though I didn't finish my goals, looking back, I did get a lot of small things done in every category. Honestly, that feels good.
 
@@ -90,7 +90,7 @@ We knew about COVID while we were there, and boy, we had no idea what we were in
 ### At the Old Manor
 The pandemic has definitely changed our dynamic as a family this year. We have started to see family less often in person as the year has dragged on. My wife and I have been working from home for almost a year now. It is really funny to think back about how I considered a position with Mozilla (makers of Firefox) which would have been 100% remote, and now we both get a year long taste of it. It has been interesting, but I do believe I have been more productive (at the expense of physical activity mentioned previously)
 
- The kids are also going on a year of remote learning this upcoming March. It is different, but there are still plenty of good things that have come of it. More on that later...
+The kids are also going on a year of remote learning this upcoming March. It is different, but there are still plenty of good things that have come of it. More on that later...
 
 Ask my wife, I always say I don't get enough time with my kids. I am a divorced parent with 50/50 custody with my ex-wife. The pandemic has allowed me more time with my children and my new wife. It is amazing how much time is saved not having to drive to and take the train downtown. It still does not feel like enough but definitely more than it did.
 
@@ -150,7 +150,7 @@ In 2019, I celebrated attaining affiliate status on Twitch. This year, I was for
 
 ## On to the Music
 
-Something that I would like to continue in these posts is to identify a song that states how I felt when writing that post, or just a song I really like. It is really cool to see a band doing ska again, much like Keep Flying does. This song in many ways parallels how anxiety affects my life, and part of the solution to it, my partner... my wife:
+Something that I would like to continue in these posts is to identify a song that states how I felt when writing that post, or just a song I really like. It is really cool to see a band doing ska/punk again, much like Keep Flying does. It reminds me of a kind of modern Goldfinger. This song in many ways parallels how anxiety affects my life, and part of the solution to it, my partner... my wife:
 
 `youtube: eIpcdoo2Ejs`
 
