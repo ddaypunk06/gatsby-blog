@@ -11,6 +11,10 @@ It is that time of the year again! Where did it go? Out the window most would sa
 
 I myself have had a rollercoaster of a year. From starting a new job just shy of the start of 2020 to a much more scaled down holiday season, many good and not-so-good events have taken place in my life; however, I would like to keep this post a light as possible, when looking back on the year.
 
+---
+
+## A Look Back
+
 I had a number of things I wanted to accomplish this year, but plans were not always able to be kept...
 
 This year, my goals were to:
@@ -25,6 +29,8 @@ Some would say there are too many here, and I agree wholeheartedly. I  started r
 
 Taking the successes along with the failures into account (as we all should), I was able to complete parts of all of the above goals. I read more than one book a month even though my [goal was 20 for the year](). I definitely didn't play my guitar as much as I wanted to. Though I did play it more because I put one next to my desk and picked up my kid's guitar at random times. I did some painting of minis, sketching, and coloring throughout the year, but I didn't stick to my plan to do it every Tuesday night. As a result, I have a growing backlog of miniatures to work on this upcoming year. I took, but did not edit a TON of pictures this year with my Sony DSLR and a few new lenses. I was also unable to do as much pixel art as I wanted to this year; however, I did start working on rebuilding a game with my good friend in Godot Engine. As such, I ended up redesigning the player character a bit. Due to starting a new career with Hyatt as software developer (in test) I was able to code a ton this year. Even though during the early part of COVID I was doing more manual testing than anything. As a side effect of COVID, I was able to spend a ton of time with my kids due to remote learning. Although, it never feels like I spend enough time with them still. As far as streaming goes, I was able to get my first payout from Twitch after being an affiliate for over a year. It was a nice feeling for sure.
 
+---
+
 ## Professional Growth
 
 The privilege of Working at Hyatt this year was amazing given the year we have all had. The people I work with are some of the best I have ever worked with. It was sad to see many leave due to the climate of the industry. 
@@ -34,6 +40,8 @@ I am super proud of myself to have completed working on a mock application servi
 In addition to working on mocking services, automated tests, and assisting with manual testing of new features, my team has allowed me to explore avenues of programming outside of strictly test related things. My lead, director, and vice president all believe in skill development outside your job description. While I deeply understand software quality and testing, I want to know more about other aspects of software development.
 
 As a result, I have been assigned small items for product development to work on in both our back-end code and Android app. As a result, I am learning unit testing and just more general programming knowledge.
+
+---
 
 ## Growing into My Own Skin
 
@@ -54,6 +62,8 @@ Keeping in mind the positives and the negatives for this post, I have definitely
 Surprisingly, the game Dungeons and Dragons has somewhat saved my social life this year. I was lucky to be part of 3 different campaigns but unlucky to experience what amounts to split personalities (haha). It is seriously hard, to keep track of who three separate people are especially when two are similar classes. I am happy that my wife decided to try it out (after many nudges by friends in the groups)!
 
 I have tried to learn to not let things outside of my control get to me. It is hard, but I know I must keep working at it.
+
+---
 
 ## Pandemic Life
 
@@ -87,6 +97,8 @@ I think it is hardest on my new wife (more on that soon) than it has been on me.
 
 We have had a few fun group video calls involving trivia and adult drinks, but obviously, it is just not the same. While it is hard, it is essential to make sure we are here for our families instead of sick and unable to work/provide for our kids.
 
+---
+
 ## The Semi-Postponed Marriage
 
 The original plan was to have an Indian wedding in October. We spent multiple months dreading the decision to postpone it as COVID looked like it wasn't going away. Finally in the summer, we decided we had to push it back for the safety of our friends and family.
@@ -97,6 +109,8 @@ Only our very immediate family and wedding party were asked to attend. One of ou
 
 Almost three months in, and its going pretty well, albeit not much has changed. She is still my best friend, and we are working hard to make it through this pandemic, amongst other things. 
 
+---
+
 ## Getting Twitch'y
 
 In 2019, I celebrated attaining affiliate status on Twitch. This year, I was fortunate enough to have done enough streaming and work to obtain my first payout. It wasn't much and it is a bit disheartening it took this long. I knew it would be hard work to get even this far, but it has had its moments!
@@ -105,10 +119,12 @@ In 2019, I celebrated attaining affiliate status on Twitch. This year, I was for
 * [CREX Gaming](https://crexgaming.com/) who graciously afforded me a large number of followers this year!
 * All the amazing people I have met through streamers I know and channels I have followed this year!
 
+---
+
 ## Favorite 2020 Memories
 
-* Top of that list is getting married to my best friend! See above for more about that.
-* Travelling to and getting to photograph India!
+* Getting married to my best friend! See above for more about that.
+* Traveling to and getting to photograph India!
 * Completing most of a programming project on my own that should be used more with time. Also putting code into our production app a few times!
 * Working on video games again!
 * Hanging out with (and somehow singing a song for on stream) SweetTails
@@ -154,4 +170,3 @@ Something that I would like to continue in these posts is to identify a song tha
 > I need some kind of relief
 > A reason to breathe
 > I think I finally believe.
-
