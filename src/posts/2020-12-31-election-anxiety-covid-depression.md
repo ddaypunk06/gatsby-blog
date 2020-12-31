@@ -142,31 +142,56 @@ Something that I would like to continue in these posts is to identify a song tha
 `youtube: eIpcdoo2Ejs`
 
 > Stuck in my head.
+> 
 > Only feel safe in my bed.
+> 
 > But the anxiety is killing me.
+> 
 > These pills don’t help with anything.
+> 
 > Just want to fix all this.
+> 
 > Just trying to do my best without sabotaging everything.
+> 
 > I’m sabotaging everything.
 > 
+> 
 > But it’s getting harder.
+> 
 > Turning nightmares into dreams.
+> 
 > Life is the monster.
+> 
 > It leaves me weak at the knees.
+> 
 > I feel like I’m blind and there’s no good to be seen
+> 
 > But when I see you smile it gives me a reason to breathe.
+> 
 
 > Take these pills twice a day.
+> 
 > Maybe then you’ll feel OK.
+> 
 > Or maybe you’ll lose more of yourself.
+> 
 > Start to feel like someone else.
+> 
 > 20 mg doesn’t make me who I am.
+> 
 > It just helps me get through the day.
+> 
 > Helps me numb some of the pain. Shattered glass on the floor.
+> 
 > Substances killing me.
+> 
 > I need something more.
 > 
+> 
 > I’m stuck in routine
+> 
 > I need some kind of relief
+> 
 > A reason to breathe
+> 
 > I think I finally believe.
