@@ -1,15 +1,27 @@
 ---
 title: "Can 2021 Be Like Turning 21 again?"
 path: "/turning-21-again"
-date: 2021-01-01
+date: 2021-01-03
 author: "Andy Delso"
-excerpt: ''
+excerpt: 'I had mentioned in my previous post that I have been reading Atomic Habits...'
 tags: ["goals", "yearly"]
 ---
 
-Writing this like I have read in Atomic Habits...
+I had mentioned in my previous post that I have been reading Atomic Habits by James Clear. It is quite an eye opener on the science behind habits and how to form better ones. 
 
-> Find quote about quitting smoking vs not a smoker
+I am only about 25% into it, but I thought planning out my 2021 goals should follow what I have been reading.
+
+Clear mede a really good point early on in the book:
+
+> The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.
+
+ He additionally likened it to stating "I am not a smoker" instead of saying you are quitting smoking.
+
+As such, I am going to identify who I want to be and then follow that up  with a set of habits I wish to follow based on his principle of "habit stacking":
+
+> One of the best ways to build a new habit is to identify a current habit you already do each day and then stack your new behavior on top. This is called habit stacking.
+
+Finally, I will dig a bit deeper into what I want to accomplish and why.
 
 ## I am a father
 
@@ -39,7 +51,7 @@ My wife mentioned she learned through watching Hindi/Bollywood movies.
 I will watch movies in Hindi with her, and attempt to learn that way.
 ## I am a developer
 
-> On workdays, When I finish lunch, I will read something about programming
+> On workdays, When I finish lunch, I will read an article or chapter about software development
 
 This year more than ever, I want to improve as a programmer. I have had a full year as a developer (in title) and it was great!
 
