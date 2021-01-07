@@ -135,4 +135,90 @@ I will play more tennis when the weather permits, and introduce the sport to my 
 
 ## This Month's Song
 
-TBD
+Alex Gaskarth from All Time Low hit my mood for December/January with his lyrics. The title of the song, January Gloom (Part 1) is a bit blunt as well, but suits my mood. Again, this song eludes to my feelings about my wife, and her being one of the best parts of my life.
+
+`youtube: BbI0Sc0QFnw`
+
+> I got myself a brand new pair of boots
+> 
+> To keep the rain out
+> 
+> I got myself a brand new leather coat
+> 
+> To fight the cold
+> 
+> I've gotta find a way to break this spell
+> 
+> Before I lose it
+> 
+> A victim of the season, need a better reason
+> 
+> To be miserable
+
+
+> I blame it on the weather
+> 
+> Can't keep it together, no
+
+> So can you save me from this January gloom
+>
+> Hiding in your room, the things that we could do
+> 
+> You're like the sunshine in the lazy days of June
+> 
+> Hiding in your room, save me from this January-
+
+
+> Another drop of Hudson in the dark
+> 
+> To lift these spirits
+> 
+> Another record spins my heavy heart
+> 
+> And flips the script
+> 
+> Some crazy way to turn this life around
+> 
+> You know I'll take it
+> 
+> A victim of the season, fuck another reason
+> 
+> To be miserable
+
+> I blame it on the weather
+> 
+> Can you make it better now
+
+> Come on and save me from this January gloom
+> 
+> Hiding in your room, the things that we could do
+> 
+> You're like the sunshine in the lazy days of June
+> 
+> Hiding in your room, save me from this January gloom
+
+> And all the things I'd like to tell you
+> 
+> Save it for another day
+> 
+> Somewhere not so far, just for now
+> 
+> We'll shut those words away
+> 
+> And there you are, and there you were
+> 
+> You do your best or do your worst
+> 
+> All I want, all I need for now is you to save me
+
+> So can you save me from this January gloom
+> 
+> Hiding in your room, the things that we could do
+> 
+> You're like the sunshine in the lazy days of June
+> 
+> Hiding in your room, save me from this January gloom
+> 
+> (Hiding in your room)
+> 
+> Save me from this January gloom 
