@@ -11,17 +11,19 @@ I had mentioned in my previous post that I have been reading Atomic Habits by Ja
 
 I am only about 25% into it, but I thought planning out my 2021 goals should follow what I have been reading.
 
-Clear mede a really good point early on in the book:
+Clear made this really good point early on in the book:
 
 > The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.
 
- He additionally likened it to stating "I am not a smoker" instead of saying you are quitting smoking.
+He additionally likened it to stating "I am not a smoker" instead of saying you are quitting smoking.
 
 As such, I am going to identify who I want to be and then follow that up  with a set of habits I wish to follow based on his principle of "habit stacking":
 
 > One of the best ways to build a new habit is to identify a current habit you already do each day and then stack your new behavior on top. This is called habit stacking.
 
 Finally, I will dig a bit deeper into what I want to accomplish and why.
+
+---
 
 ## I am a father
 
@@ -34,6 +36,9 @@ I will read to them as much as I can, encouraging great books like Eragon that t
 As stated in my last post, I feel like I don't get to spend enough time with them even with the increase in time available during quarantine. I know I am spending more, but it doesn't feel like it at times.
 
 Using this focus, I will play more, draw/color more, teach more, and sing more with them.
+
+---
+
 ## I am a husband
 
 > When I lay down in bed, I will tell my wife I love her
@@ -49,6 +54,9 @@ Just before the end of the year, I came up with the notion that I know very litt
 My wife mentioned she learned through watching Hindi/Bollywood movies.
 
 I will watch movies in Hindi with her, and attempt to learn that way.
+
+---
+
 ## I am a developer
 
 > On workdays, When I finish lunch, I will read an article or chapter about software development
@@ -63,16 +71,19 @@ I will continue working on the "Fragments" game we started probably 3 - 4 years 
 
 Regarding programming languages, I will focus on the ones I am using instead of looking into others like Rust. This means I will focus on JVM (Kotlin mostly) and JavaScript (mostly Next).
 
+---
+
 ## I am a reader
 
 > When I tell my wife I love her before bed, I will pick up a book to read to calm my mind
 
-This year I will hit my reading goal on Goodreads of 20 books, utilizing books of various types (novels, comics, technical books, etc)
+This year I will hit my reading goal on GoodReads of 20 books, utilizing books of various types (novels, comics, technical books, etc)
 
 I've found that reading after chilling to some TV or streaming is a great way to calm my mind and tire my eyes.
 
 I will finish books like Atomic Habits, Clean Code, and try to keep up with new Star Wars releases.
 
+---
 
 ## I am an artist
 
@@ -90,6 +101,8 @@ Things I am looking to do:
 * Continue planning a roleplaying campaign as I read source material
 * Write one blog article a month, be they personal, technical, review, or thoughts
 
+---
+
 ## I am a streamer
 
 > When I stream on Twitch, I will stop looking at my viewer count
@@ -101,6 +114,8 @@ I am not into streaming for the money other than to possibly purchase another ga
 I will promote positivity on my stream.
 
 I will continue to value the many friends I have made through streaming. Thankyou SaxTrain and ShayShayFace for your continued mentorship and friendship.
+
+---
 
 ## I am an athlete
 
@@ -115,3 +130,9 @@ Other alternatives to consider are a stationary bike or the Switch Fit related g
 Making it a general habit could have cascading positive effects on my life.
 
 I will play more tennis when the weather permits, and introduce the sport to my children.
+
+---
+
+## This Month's Song
+
+TBD
