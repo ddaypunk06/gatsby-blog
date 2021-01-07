@@ -1,5 +1,5 @@
 ---
-title: "Can 2021 Be Like Turning 21 again?"
+title: "Can 2021 Be Like Turning 21 again? You know... Fun and Exciting?"
 path: "/turning-21-again"
 date: 2021-01-03
 author: "Andy Delso"
