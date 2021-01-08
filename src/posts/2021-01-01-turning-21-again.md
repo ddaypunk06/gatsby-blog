@@ -7,7 +7,7 @@ excerpt: 'I had mentioned in my previous post that I have been reading Atomic Ha
 tags: ["goals", "yearly"]
 ---
 
-I had mentioned in my previous post that I have been reading Atomic Habits by James Clear. It is quite an eye opener on the science behind habits and how to form better ones. 
+I had mentioned in my previous post that I have been reading [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear. It is quite an eye opener on the science behind habits and how to form better ones. 
 
 I am only about 25% into it, but I thought planning out my 2021 goals should follow what I have been reading.
 
@@ -31,7 +31,7 @@ Finally, I will dig a bit deeper into what I want to accomplish and why.
 
 My children mean the world to me. Most parents can identify with that sentiment I would think...
 
-I will read to them as much as I can, encouraging great books like Eragon that they can learn new words from and explore their imagination.
+I will read to them as much as I can, encouraging great books like [Eragon](https://www.goodreads.com/book/show/113436.Eragon) that they can learn new words from and explore their imagination.
 
 As stated in my last post, I feel like I don't get to spend enough time with them even with the increase in time available during quarantine. I know I am spending more, but it doesn't feel like it at times.
 
@@ -45,7 +45,7 @@ Using this focus, I will play more, draw/color more, teach more, and sing more w
 
 I know I say it, but this just seems like a good habit to improve upon. I've been married 3 months, and it is going well so far all things considered.
 
-I will say it more outside of the bedroom as well, as that is just as important.
+I will say it more outside the bedroom as well, as that is just as important.
 
 > When we watch a movie or show, once a month it should be a movie in Hindi
 
@@ -77,11 +77,11 @@ Regarding programming languages, I will focus on the ones I am using instead of 
 
 > When I tell my wife I love her before bed, I will pick up a book to read to calm my mind
 
-This year I will hit my reading goal on GoodReads of 20 books, utilizing books of various types (novels, comics, technical books, etc)
+This year I will hit my reading goal on [GoodReads](https://www.goodreads.com) of 20 books, utilizing books of various types (novels, comics, technical books, etc)
 
 I've found that reading after chilling to some TV or streaming is a great way to calm my mind and tire my eyes.
 
-I will finish books like Atomic Habits, Clean Code, and try to keep up with new Star Wars releases.
+I will finish books like Atomic Habits, [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code), and try to keep up with new Star Wars releases.
 
 ---
 
@@ -95,7 +95,7 @@ This year Tuesday nights will be my creative night at a minimum for 1 - 2 hours.
 
 Things I am looking to do:
 * Continue working on pixel art for "Fragments" game
-* Paint my backlog of Hordes and Malifaux miniatures
+* Paint my backlog of [Hordes](https://store.privateerpress.com/games/hordes/) and [Malifaux](https://www.wyrd-games.net/malifaux) miniatures
 * Utilize coloring books more often and use those nice colored pencils I bought a few years back
 * Continue to pick up my guitar whenever inspiration hits
 * Continue planning a role-playing campaign as I read source material
@@ -112,7 +112,7 @@ This year, I am going to stop focusing on how many viewers I have. It seems like
 I am also not into streaming for the money other than to possibly purchase another game to stream or to use for a giveaway to my followers.
 
 I will promote positivity on my stream. I will continue to value the many friends I have made through streaming. 
-Thank you SaxTrain and ShayShayFace for your continued mentorship and friendship.
+Thank you [SaxTrain](https://www.twitch.tv/saxtrain) and [ShayShayFace](https://www.twitch.tv/shayshayface) for your continued mentorship and friendship.
 
 ---
 
@@ -134,7 +134,7 @@ I will play more tennis when the weather permits, and introduce the sport to my 
 
 ## This Month's Song
 
-Alex Gaskarth from All Time Low hit my mood for December/January with his lyrics. The title of the song, January Gloom (Part 1) is a bit blunt as well, but suits my mood. Again, this song alludes to my feelings about my wife, and her being one of the best parts of my life.
+Alex Gaskarth from [All Time Low](https://www.alltimelow.com/skod) hit my mood for December/January with his lyrics. The title of the song, January Gloom (Part 1) is a bit blunt as well, but suits my mood. Again, this song alludes to my feelings about my wife, and her being one of the best parts of my life.
 
 `youtube: BbI0Sc0QFnw`
 
