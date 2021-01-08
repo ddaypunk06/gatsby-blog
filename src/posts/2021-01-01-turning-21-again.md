@@ -1,7 +1,7 @@
 ---
 title: "Can 2021 Be Like Turning 21 again? You know... Fun and Exciting?"
 path: "/turning-21-again"
-date: 2021-01-03
+date: 2021-01-07
 author: "Andy Delso"
 excerpt: 'I had mentioned in my previous post that I have been reading Atomic Habits...'
 tags: ["goals", "yearly"]
@@ -11,7 +11,7 @@ I had mentioned in my previous post that I have been reading Atomic Habits by Ja
 
 I am only about 25% into it, but I thought planning out my 2021 goals should follow what I have been reading.
 
-Clear made this really good point early on in the book:
+Clear made this a point quite early on in the book:
 
 > The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.
 
@@ -85,7 +85,7 @@ I will finish books like Atomic Habits, Clean Code, and try to keep up with new 
 
 ---
 
-## I am an artist
+## I am a creative
 
 > On Tuesday's at 8pm I will do something artistic for at least an hour
 
@@ -98,7 +98,7 @@ Things I am looking to do:
 * Paint my backlog of Hordes and Malifaux miniatures
 * Utilize coloring books more often and use those nice colored pencils I bought a few years back
 * Continue to pick up my guitar whenever inspiration hits
-* Continue planning a roleplaying campaign as I read source material
+* Continue planning a role-playing campaign as I read source material
 * Write one blog article a month, be they personal, technical, review, or thoughts
 
 ---
@@ -107,13 +107,12 @@ Things I am looking to do:
 
 > When I stream on Twitch, I will stop looking at my viewer count
 
-This year, I am going to stop focusing on how many viewers I have. It seems like an unhealthy goal to have. 
+This year, I am going to stop focusing on how many viewers I have. It seems like an unhealthy goal to have, especially because I am not in it to be the biggest streamer. 
 
-I am not into streaming for the money other than to possibly purchase another game to stream or to giveaway.
+I am also not into streaming for the money other than to possibly purchase another game to stream or to use for a giveaway to my followers.
 
-I will promote positivity on my stream.
-
-I will continue to value the many friends I have made through streaming. Thankyou SaxTrain and ShayShayFace for your continued mentorship and friendship.
+I will promote positivity on my stream. I will continue to value the many friends I have made through streaming. 
+Thank you SaxTrain and ShayShayFace for your continued mentorship and friendship.
 
 ---
 
@@ -125,7 +124,7 @@ This year more than ever I need to get into this mindset. I am fairly concerned 
 
 There are multiple things I could do at home from Apple's fitness subscription to even Just Dance on my Switch.
 
-Other alternatives to consider are a stationary bike or the Switch Fit related game...
+Other alternatives to consider are a stationary bike, or the Switch Fit related game...
 
 Making it a general habit could have cascading positive effects on my life.
 
@@ -135,15 +134,15 @@ I will play more tennis when the weather permits, and introduce the sport to my 
 
 ## This Month's Song
 
-Alex Gaskarth from All Time Low hit my mood for December/January with his lyrics. The title of the song, January Gloom (Part 1) is a bit blunt as well, but suits my mood. Again, this song eludes to my feelings about my wife, and her being one of the best parts of my life.
+Alex Gaskarth from All Time Low hit my mood for December/January with his lyrics. The title of the song, January Gloom (Part 1) is a bit blunt as well, but suits my mood. Again, this song alludes to my feelings about my wife, and her being one of the best parts of my life.
 
 `youtube: BbI0Sc0QFnw`
 
-> I got myself a brand new pair of boots
+> I got myself a brand-new pair of boots
 > 
 > To keep the rain out
 > 
-> I got myself a brand new leather coat
+> I got myself a brand-new leather coat
 > 
 > To fight the cold
 > 
