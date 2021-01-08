@@ -10,7 +10,7 @@ module.exports = {
     title: `Andy Delso: Curious Tinkerer`,
     description: `Musings about software development, quality, and test automation. \
     My thoughts are my own.`,
-    copyrights: '© Andy Delso 2020',
+    copyrights: '© Andy Delso 2021',
     author: `@thedelso`,
     logo: {
       src: '',
