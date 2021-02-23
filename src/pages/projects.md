@@ -17,18 +17,18 @@ Contributions to our automation framework that uses [Geb](https://gebish.org/), 
 
 ## Personal Projects
 
-### [Selenium Framework](https://github.com/ddaypunk06/dupage)
+### [Selenium Framework](https://github.com/ddaypunk/dupage)
 
-A reusable [Selenium](https://www.selenium.dev/) framework built using newest version of Selenium at the time, SpringBoot, and [JUnit5](https://junit.org/junit5/) amongst other things. Uses component based page object model as described and improved upon in my [blog article](/selenium-component-model).
+A reusable [Selenium](https://www.selenium.dev/) framework built using the newest version of Selenium at the time, SpringBoot, and [JUnit5](https://junit.org/junit5/) amongst other things. Uses component based page object model as described and improved upon in my [blog article](/selenium-component-model).
 
-### [React Playground](https://github.com/ddaypunk06/playground)
+### [React Playground](https://github.com/ddaypunk/playground)
 
 A very simple [React](https://reactjs.org/) based website with an [Express](https://expressjs.com/) server backend. Intended to be used in testing above selenium project over using solutions in order to have better control over the selectors available in the front end implementation. I used `create-react-app` to set up the project and express serves the site.
 
-### [Card Shuffle](https://github.com/ddaypunk06/card-shuffle)
+### [Card Shuffle](https://github.com/ddaypunk/card-shuffle)
 
-Simple object oriented programming exercise using [Java](https://docs.oracle.com/en/java/) for an interview I did a while ago that shuffles a common deck of playing cards.
+Simple object-oriented programming exercise using [Java](https://docs.oracle.com/en/java/) for an interview I did a while ago that shuffles a common deck of playing cards.
 
 ### [Fragments of Palladium](https://github.com/BedfordWest/fragmentology)
 
-A game developed by a team of folks from work using Java and the [LibGDX](https://libgdx.badlogicgames.com/) library. Project lead was [Bedford West](https://github.com/BedfordWest). I personally worked on some of the pixel art and the programming for the controls. This was never completed.
+A game developed by a team of folks from work using Java and the [LibGDX](https://libgdx.badlogicgames.com/) library. Project lead was [Bedford West](https://github.com/BedfordWest). I personally worked on some pixel art and the programming for the controls. This was never completed, but restarted using Godot engine in 2020.
